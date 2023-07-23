@@ -1,0 +1,74 @@
+.df{
+    font-size: 35px;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 20px;
+
+    
+}
+.rooms{
+    opacity: 100;
+}
+.srooms{
+    width: 900px;
+   margin-top: 10px;
+   margin-left: 90px;
+   opacity: 100%;
+    
+}
+.single{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    width: 1400px;
+    background-color: #14274A;
+    margin-left: -12%;
+    position: absolute;
+    margin-top: 38rem;
+    font-family: 'Poppins', sans-serif;
+}
+.prooms{
+    font-size: 30px;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 75px;
+    opacity: 100%;
+    text-align: center;
+    
+}
+.Fcontainer{
+    background-color: white;
+}
+.drooms{
+    width: 900px;
+   margin-top: 10px;
+   margin-left: 90px;
+   opacity: 100%;
+
+}
+
+.double{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    width: 1400px;
+    background-color: #14274A;
+    margin-left: -12%;
+    position: absolute;
+    margin-top: 34rem;
+    font-family: 'Poppins', sans-serif;
+}
+.drooms{
+    font-size: 30px;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-top:2px;
+    margin-bottom: 10px;
+    opacity: 100%;
+    text-align: center;
+    
+    
+}

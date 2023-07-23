@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;1,200;1,300;1,400&display=swap');
+
+
+.Fcontainer{
+    background-color: black;
+}
+
+.gbr1{
+    opacity: 100%;
+}
+.Welcome{
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(251, 252, 254);
+    margin-top: -600px;
+    margin-left: 9%;
+}
+.Welcometo{
+    font-size: 35px;
+    margin-bottom: -30px;
+    
+}
+.The{
+    font-size: 80px;
+    font-weight: bolder;
+    margin-bottom: -30px;
+}
+.Hotel{
+    font-size: 35px;
+    
+}
+.Scroll{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 500px;
+    margin-top: 250px;
+}
+.gym{
+    width: 1000px;
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+.fs{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: -60px;
+    margin-top: 30px;
+    font-family:'Poppins', sans-serif;
+}
+.KotakG{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    width: 300px;
+    height: 60px;
+    background-color: white;
+    margin-left: 38%;
+    position: absolute;
+    margin-top: -3rem;
+    font-family: 'Poppins', sans-serif;
+}
+/* .pgym{
+    background-color: white;
+} */
+.kolam{
+    width: 1000px;
+    margin-left: 60px;
+    margin-top: 3%;
+}
+.kotakK{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    width: 300px;
+    height: 60px;
+    background-color: white;
+    margin-left: 34%;
+    position: absolute;
+    margin-top: -3rem;
+    font-family: 'Poppins', sans-serif;
+}
